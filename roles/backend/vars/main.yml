@@ -1,0 +1,6 @@
+login_password: ExpenseApp@1
+login_host: 
+login_user: root
+DB_HOST: 
+app_location: /app
+component: backend
